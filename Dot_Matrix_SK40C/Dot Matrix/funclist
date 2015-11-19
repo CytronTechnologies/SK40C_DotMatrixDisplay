@@ -1,0 +1,14 @@
+_running_string: CODE, 3015 0 92
+_init: CODE, 2614 0 20
+_light_a_number_alphabet: CODE, 2634 0 26
+_light_a_dot: CODE, 2688 0 37
+_light_a_row: CODE, 2660 0 28
+_light_a_column_two_color: CODE, 2926 0 89
+_main: CODE, 3527 0 278
+_expand_shrink_square: CODE, 3329 0 198
+_delay_ms: CODE, 2781 0 57
+_running_dot: CODE, 44 0 117
+_light_pattern_one_color: CODE, 2838 0 88
+_running_line: CODE, 3107 0 108
+_light_pattern_two_color: CODE, 3215 0 114
+Total: 1252
